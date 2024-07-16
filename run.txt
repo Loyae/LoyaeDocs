@@ -1,6 +1,0 @@
- 
-source venv/bin/activate
-make html
-
-^Edits are made in /source
-^Output is in /build/html/index.html

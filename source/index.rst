@@ -11,8 +11,7 @@ Welcome to Loyae WordPress Plugin's documentation!
    :caption: Contents:
 
    installation
-   usage
-   faq
+
 
 Indices and tables
 ==================
